@@ -30,7 +30,7 @@
     "CoffeeScript"
   ],
   "dependencies": {
-    "cson-parser": "^3.0.0",
+    "cson-parser": "github:shreeve/season",
     "fs-plus": "^3.0.0",
     "yargs": "^3.23.0"
   },
